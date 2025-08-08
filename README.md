@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipexavier-088&show_icons=true&locale=en" alt="fxdev08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipexavier-0808&" alt="fxdev08" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipexavier-08&" alt="fxdev08" /></p>
