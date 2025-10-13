@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fxdev08" alt="fxdev08" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity, A.I, Dart**
+- 🌱 I’m currently learning **Cybersecurity, A.I, Dart, and web development**
 
 - 👨‍💻 All of my projects are available at [https://felipexavier.vercel.app](https://felipexavier.vercel.app)
 
