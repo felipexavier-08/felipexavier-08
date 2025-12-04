@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipexavier-08&label=Profile%20views&color=0e75b6&style=flat" alt="fxdev08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipexavier-08" alt="felipexavier-v08" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipexavier-08" alt="felipexavier-08" /></a> </p>
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento WEB e mobile**
 
